@@ -1,1 +1,22 @@
+# Build products and local simulation data
+build/
+cmake-build-*/
+outputs/
+*.exe
+*.o
+*.obj
+*.out
+*.log
 Salida*.dat
+
+# Python
+__pycache__/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+*.py[cod]
+
+# Developer-specific configuration
+.vscode/
+.idea/
+.DS_Store

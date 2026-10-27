@@ -1,5 +1,0 @@
-LOS NOMBRES ESTAN PUESTOS DE ESTA MANERA:
-Salida EXPN L DIA	(todojunto)
-EXPN=Exponente de la N: N=1e6->6
-L=Tamaño de la matriz: L=16->16
-DIA=Dia del mes: Si es dia 7->07
